@@ -74,7 +74,7 @@ Actualmente profundizo en:
 
 - 📧 Email: **dosreisj445@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jose-juan-dos-reis-40aa10262/)
-- 🌐 Portafolio: [*(en desarrollo)*](https://crankyjj.github.io/portafolio-jose/)
+- 🌐 Portfolio: [Ver portfolio...](https://crankyjj.github.io/portafolio-jose/)
 
 ---
 

@@ -50,7 +50,7 @@ Actualmente estoy ampliando mi portfolio con nuevos proyectos enfocados en:
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: https://linkedin.com/in/CraknyJJ
+- 💼 LinkedIn: www.linkedin.com/in/jose-juan-dos-reis
 - 📧 Email: dosreisj445@gmail.com  
 - 🌍 Portfolio: [Portfolio](https://crankyjj.github.io/portafolio-jose/)
 
